@@ -105,6 +105,11 @@
       <version>7.0.0</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>org.bytedeco</groupId>
+      <artifactId>llvm-platform</artifactId>
+      <version>11.0.0-1.5.5-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 
   <repositories>

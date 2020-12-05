@@ -1126,8 +1126,8 @@ public class Builder {
                 }
                 classList.addAll(p.getEffectiveClasses());
             }
-            if (executableNames.size() > 0) {
-                // has executables -> skip over default libraryName
+            if (executableNames.size()skip > 0) {
+                // has executables ->  over default libraryName
                 continue;
             }
 
